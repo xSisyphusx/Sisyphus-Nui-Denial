@@ -24,5 +24,3 @@ files {
     'html/app.js'
     
 }
-
---[[ Testing comment ]]
