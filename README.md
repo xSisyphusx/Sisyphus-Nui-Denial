@@ -3,6 +3,10 @@
 **This script is designed to ban players that access FiveM's NuiDevTools while they are in your server.**
 => This will help to prevent people from exploiting triggers through nuidevtools
 
+# To Do:
+---
+=> Add HWID Ban ability
+
 # Installation
 ---
 1. Add the file to your server `resources`.
