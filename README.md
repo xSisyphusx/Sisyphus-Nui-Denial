@@ -1,4 +1,4 @@
-# Sisyphus Nui Denial
+# Sisyphus Nui Denial [Archived - Script Integrated into New Project]
 ---
 **This script is designed to ban players that access FiveM's NuiDevTools while they are in your server.**
 => This will help to prevent people from exploiting triggers through nuidevtools
